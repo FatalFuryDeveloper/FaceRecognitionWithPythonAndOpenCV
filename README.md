@@ -1,6 +1,13 @@
 # Reconocimiento Facial 👨👩 | Python - OpenCV
 La funcionalidad del aplicativo es el reconocimiento facial de diferentes perfiles (Rostros o Personas), con los metodos utilizados en la libreria OpenCV (EigenFaces, FisherFaces y LBPHFaces).
 
+## Demo
+* Reconocimiento Facial en Videos con Python y OpenCV: https://youtu.be/5OneeUnM_n8 
+* Reconocimiento Facial MultiRostros en Python con OpenCV con Frame: https://youtu.be/PUibIf3Fnks
+* Reconocimiento Facial MultiRostros en Python con OpenCV sin Frame: https://youtu.be/YPrVNGnLmFU
+
+[![ScreenShot](https://github.com/FatalFuryDeveloper/FaceRecognitionWithPythonAndOpenCV/blob/master/demo/main.jpg)](https://youtu.be/5OneeUnM_n8)
+
 ## Requerimientos
 Las siguientes librerias de python son necesarias para la ejecucion del aplicativo:
 * pip install **opencv-python**
